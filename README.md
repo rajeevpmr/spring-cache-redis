@@ -24,4 +24,4 @@ In youre Redis console,
 > KEYS *
 </code>
 
-This should you give you all the cached keys
+This should give you all the cached keys
