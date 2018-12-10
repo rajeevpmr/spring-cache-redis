@@ -22,7 +22,7 @@ public class Customer implements Serializable {
 
     /**
      * Annotated the List element with @JsonIgnore to avoid serializing the List
-     * Another approach to Load the entitites in EAGER mode but that will be expensive
+     * Another approach to Load the entities in EAGER mode but that will be expensive
      *
      */
     @ElementCollection
